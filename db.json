@@ -1,0 +1,40 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "imagem": "",
+      "titulo": "teste",
+      "descricao": "Testando"
+    },
+    {
+      "imagem": "",
+      "titulo": "PARALELEPIPEDO",
+      "descricao": "Testando",
+      "id": 2
+    },
+    {
+      "id": 4,
+      "imagem": "",
+      "titulo": "teste 4",
+      "descricao": "Testando"
+    },
+    {
+      "id": 5,
+      "imagem": "",
+      "titulo": "teste 5",
+      "descricao": "Testando"
+    },
+    {
+      "id": 6,
+      "imagem": "",
+      "titulo": "teste 6",
+      "descricao": "Testando"
+    },
+    {
+      "imagem": "",
+      "titulo": "NAOGOSTODETEMACLARO",
+      "descricao": "Testando",
+      "id": 7
+    }
+  ]
+}
